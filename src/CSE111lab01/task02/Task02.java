@@ -10,7 +10,7 @@ public class Task02 {
 
 		System.out.println("Enter row's range: ");
 		int row = sc.nextInt();
-		System.out.println("Enter coloumn's range: ");
+		System.out.println("Enter column's range: ");
 		int col = sc.nextInt();
 
 		for (int a = 1; a <= row; a++) {
